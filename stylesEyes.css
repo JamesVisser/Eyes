@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #3fc1f5;
+  background: #909496;
   border: double 20px  rgba(234, 240, 247, 0.644);
   border-radius: 8.5%;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 80;
   color: aliceblue;
   text-align: center;
-  text-shadow: 2px 3px 5px rgba(5, 46, 85, 0.822);
+  text-shadow: 2px 3px 5px rgba(54, 79, 102, 0.781);
   font-family: Impact;
 }
 
@@ -28,14 +28,14 @@ body {
   display: inline-block;
   margin: 10px;
   border-radius: 50%;
-  box-shadow: 8px 8px 5px rgba(16, 136, 235, 0.568);
+  box-shadow: 8px 8px 5px rgba(58, 71, 84, 0.776);
   position: relative;
   overflow: hidden;
 }
 .ball {
   width: 80px;
   height: 80px;
-  background: rgba(13, 236, 32, 0.534);
+  background: rgb(0, 0, 0);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -43,21 +43,3 @@ body {
   border-radius: 50%;
    
 }
-
-.btn-group {
-  margin: 0;
-  position: absolute;
-  top: 15%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  background-color: #0538a54d;
-  border-radius: 9%;
-  padding: 2px 2px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-}
-
