@@ -1,4 +1,5 @@
 •	Title of the project: Eyes
+In this repository I changed the names of the index and syles files to read indexEyes.html and stylesEyes.css so I could embed the files into the main pages index file.
 •	Description of the project: This project demonstrates on mouse movement with two eyes. As the user moves the mouse around the screen the eyes will follow.
 •	How to Run: This project will run on load up. The project also has linking buttons to navigate through different external and internal links. *note some links will be in effect when page is implemented into a main landing page.
 •	Roadmap of future improvements: In the future this page will be imbedded into a portfolio mega page and have links to its repository on github. 
